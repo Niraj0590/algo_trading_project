@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==2.2.4
+pyspark==3.5.5
+pyarrow==19.0.1
+fsspec==2025.3.0
+apache-airflow==2.10.5
+kafka-python==2.1.2
+upstox-python-sdk==2.14.0
