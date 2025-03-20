@@ -1,0 +1,17 @@
+# Ignore system files
+.bash_history
+.profile
+.pki/
+.cache/
+.local/
+.ssh/
+.vscode/
+snap/
+
+# Ignore installed software and secrets
+airflow/
+kafka_2.13-3.6.0.tgz
+hadoop-3.3.6.tar.gz
+spark-3.4.4-bin-hadoop3.tgz
+*.log
+.env
